@@ -1,7 +1,5 @@
-# kaggle_plates
+# Kaggle plates
 
-Задача: используя различные модели resnet, научиться классифицировать изображения на 2 класса: грязные тарелки и чистые. В задаче исполльзовался датасет из обучающего соревнования на Kaggle https://www.kaggle.com/competitions/platesv2/overview
+Task: using various resnet models, learn to classify images into 2 classes: dirty plates and clean ones. The task used a dataset from a training competition on Kaggle https://www.kaggle.com/competitions/platesv2/overview
 
-На данный момент удалось достичь результата: accuracy = 0.81.
-
-
+At the moment, I managed to achieve the result: accuracy = 0.81.
